@@ -1,3 +1,6 @@
 *.pyc
 .vscode/
 *.swp
+
+# CLion
+.idea/
